@@ -35,8 +35,17 @@ Here are some things I've built or explored recently:
 - [Ride Count Prediction Models](https://github.com/Gokcisan/dc-bike-share-analysis/blob/main/notebooks/03_ML_Modeling_RF_XGB.ipynb)  
   *Machine learning regression models (Random Forest & XGBoost) to predict bike ride volumes.*
 
-- [Mini Dashboards (Streamlit)](https://github.com/Gokcisan/dc-bike-share-analysis)  
-  *Small apps for trend exploration & parameter tuning.*
+
+### 🖼️ Model Visualizations
+
+**Actual vs Predicted Ride Counts:**
+
+![Actual vs Predicted](https://github.com/Gokcisan/dc-bike-share-analysis/blob/main/ML_visuals/Actual_vs_Predicted_Ride_Count.png)
+
+**Residual Distribution:**
+
+![Residual Distribution](https://github.com/Gokcisan/dc-bike-share-analysis/blob/main/ML_visuals/Residual_Distribution.png)
+
 
 ---
 
