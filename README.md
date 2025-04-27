@@ -32,10 +32,10 @@ Here are some things I've built or explored recently:
 - [DC Bike Share EDA Dashboard](https://github.com/Gokcisan/dc-bike-share-analysis)  
   *Exploratory data analysis + visual dashboard of bike rental behavior in Washington DC.*
 
-- [Ride Count Prediction Models](link)  
+- [Ride Count Prediction Models](https://github.com/Gokcisan/dc-bike-share-analysis)  
   *Machine learning regression models to predict station-level demand.*
 
-- [Mini Dashboards (Streamlit)](link)  
+- [Mini Dashboards (Streamlit)](https://github.com/Gokcisan/dc-bike-share-analysis)  
   *Small apps for trend exploration & parameter tuning.*
 
 ---
@@ -63,4 +63,4 @@ Here are some things I've built or explored recently:
 
 Feel free to reach out — always happy to talk about data, cities, or meaningful projects.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-GokceSanlialp-blue?style=flat&logo=linkedin)](www.linkedin.com/in/gokce-sanlialp)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-GokceSanlialp-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/gokce-sanlialp)
