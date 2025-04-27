@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Gökçe! 👋</h1>
 
 <p align="center">
-🌍 Berlin-based Junior Data Analyst  
+🌍 Berlin-based Data Analyst  
 📊 Passionate about data storytelling, machine learning & sustainable tech  
 💬 Languages: Python, R, SQL, English (C2), German (B1)  
 </p>
