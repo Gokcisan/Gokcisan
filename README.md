@@ -32,8 +32,8 @@ Here are some things I've built or explored recently:
 - [DC Bike Share EDA Dashboard](https://github.com/Gokcisan/dc-bike-share-analysis)  
   *Exploratory data analysis + visual dashboard of bike rental behavior in Washington DC.*
 
-- [Ride Count Prediction Models](https://github.com/Gokcisan/dc-bike-share-analysis)  
-  *Machine learning regression models to predict station-level demand.*
+- [Ride Count Prediction Models](https://github.com/Gokcisan/dc-bike-share-analysis/blob/main/notebooks/03_ML_Modeling_RF_XGB.ipynb)  
+  *Machine learning regression models (Random Forest & XGBoost) to predict bike ride volumes.*
 
 - [Mini Dashboards (Streamlit)](https://github.com/Gokcisan/dc-bike-share-analysis)  
   *Small apps for trend exploration & parameter tuning.*
