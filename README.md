@@ -63,4 +63,4 @@ Here are some things I've built or explored recently:
 
 Feel free to reach out — always happy to talk about data, cities, or meaningful projects.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-GokceSanlialp-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/gökçe-şanlialp)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-GokceSanlialp-blue?style=flat&logo=linkedin)](www.linkedin.com/in/gokce-sanlialp)
