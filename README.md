@@ -38,6 +38,9 @@ Here are some things I've built or explored recently:
 
 ### 🖼️ Model Visualizations
 
+Key visualizations from my predictive modeling work on bike-sharing datasets.  
+These plots illustrate model performance, residual patterns, and prediction accuracy.
+
 **Actual vs Predicted Ride Counts:**
 
 ![Actual vs Predicted](https://github.com/Gokcisan/dc-bike-share-analysis/blob/main/ML_visuals/Actual_vs_Predicted_Ride_Count.png)
@@ -45,7 +48,6 @@ Here are some things I've built or explored recently:
 **Residual Distribution:**
 
 ![Residual Distribution](https://github.com/Gokcisan/dc-bike-share-analysis/blob/main/ML_visuals/Residual_Distribution.png)
-
 
 ---
 
