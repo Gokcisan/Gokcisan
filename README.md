@@ -10,48 +10,37 @@
 
 ### 🧠 About Me
 
-I'm a data analyst with a background in environmental sciences and operations.  
-I enjoy uncovering patterns, building models, and visualizing data to make better decisions.  
+I'm a data analyst with a background in environmental sciences.  
+I focus on turning raw data into **actionable insights** and clear **visual stories**.  
 
 My learning journey started with self-initiated projects like bike-sharing trend analysis,  
 and grew into a solid understanding of machine learning workflows and data-driven thinking.  
 
 I'm currently exploring:
 
-- 📈 Predictive modeling (Random Forest, XGBoost)
-- 📍 Geospatial data visualization with Folium & Plotly
-- 📊 Interactive dashboards using Streamlit
-- 🧪 Clean code + reproducibility in analysis
+- 📈 Predictive modeling (Random Forest, XGBoost)  
+- 📍 Geospatial visualization with Folium & Plotly  
+- 📊 Interactive dashboards using Streamlit  
+- 🧪 Clean code + reproducibility in analysis  
 
 ---
 
 ### 🚀 Projects
 
-Here are some things I've built or explored recently:
+Here are some things I've built recently:
 
-- [DC Bike Share EDA Dashboard](https://github.com/Gokcisan/dc-bike-share-analysis)  
-  *Exploratory data analysis + visual dashboard of bike rental behavior in Washington DC.*
+- [**Ethereum Dashboard**](https://github.com/Gokcisan/ethereum-dashboard)  
+  *Streamlit app combining Ethereum price data & scraped news headlines, stored in SQLite DBs.*  
 
-- [Ride Count Prediction Models](https://github.com/Gokcisan/dc-bike-share-analysis/blob/main/notebooks/03_ML_Modeling_RF_XGB.ipynb)  
-  *Machine learning regression models (Random Forest & XGBoost) to predict bike ride volumes.*
+- [**Wine Quality Analysis**](https://github.com/Gokcisan/wine-quality-analysis)  
+  *EDA + ML models on the classic wine quality dataset to uncover chemical features driving wine ratings.*  
 
-
-### 🖼️ Model Visualizations
-
-Key visualizations from my predictive modeling work on bike-sharing datasets.  
-These plots illustrate model performance, residual patterns, and prediction accuracy.
-
-**Actual vs Predicted Ride Counts:**
-
-![Actual vs Predicted](https://github.com/Gokcisan/dc-bike-share-analysis/blob/main/ML_visuals/Actual_vs_Predicted_Ride_Count.png)
-
-**Residual Distribution:**
-
-![Residual Distribution](https://github.com/Gokcisan/dc-bike-share-analysis/blob/main/ML_visuals/Residual_Distribution.png)
+- [**Shadow Calendar Matcher**](https://github.com/Gokcisan/pdm-shadow-calendar)  
+  *TF-IDF text processing app turning raw “shadow calendar” logs into structured ERP-ready tasks.*  
 
 ---
 
-## 🛠️ Languages and Tools
+### 🛠️ Languages and Tools
 
 | Data | Editing | The Rest |
 |:----|:--------|:--------|
@@ -63,7 +52,7 @@ These plots illustrate model performance, residual patterns, and prediction accu
 
 - 🌐 Advanced SQL & relational modeling  
 - 📚 Time series forecasting (ARIMA, Prophet)  
-- 💡 Building stronger narratives through data journalism techniques
+- 💡 Building stronger narratives through data journalism techniques  
 
 ---
 
